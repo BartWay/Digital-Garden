@@ -3,6 +3,7 @@
 ---
 
 Dit is een test voor een nieuwe digitale tuin met een andere lay-out. 
+Tot nu toe lukt publiceren op Digital Garden nog niet.
 ## Kop 2
 Wat tekst. 
 
